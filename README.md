@@ -33,5 +33,6 @@ I'm familiar with the Linux OS, specifically Fedrora and Ubuntu
 - Contribute to open-source projects
 - Learn React JS
 - Learn AWS
+- Learn Unit Testing
 ---
 
