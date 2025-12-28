@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm ΜΑΓΔΑΛΗΝΗ!
+# 👋 Hi there, I'm MADELYN!
 
 🎓 I'm an Information & Electronic Systems Engineering student at the **International Hellenic University**, passionate about Software Engineering, technology, and continuous learning.
 
