@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm MADELYN!
 
-🦅 IT Coordinator of EESTEC LC Thessaloniki.
+🦅 IT Coordinator of EESTEC LC Thessaloniki. <br>
 🎓 I'm an Information & Electronic Systems Engineering student at the **International Hellenic University**, passionate about Software Engineering, technology, and continuous learning.
 
 💻 I’m currently focused on:
