@@ -11,7 +11,7 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-☕ Java · 🗄️ SQL · 🌐 HTML · 🧩 CSS · ⚡ JavaScript (learning) · 💻 C
+☕ Java · 🗄️ SQL · 🌐 HTML · 🧩 CSS · ⚡ JavaScript (learning) · 🐍 Python (learning)
 
 **Frameworks & Libraries:**  
 ⚙️ JDBC · ⚙️ Maven · 🌿 Spring Boot · 🧩 Spring Data JPA  · 
