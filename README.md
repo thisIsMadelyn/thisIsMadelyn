@@ -29,11 +29,12 @@ I'm familiar with the Linux OS, specifically Fedrora and Ubuntu
 🔹 Software Design & Analysis  
 🔹 Data Structures & Algorithms 
 
-🚀 Goals for 2026:
-- Develop and publish a complete **Spring Java** app
-- Contribute to open-source projects
-- Learn React JS
-- Learn AWS
-- Learn Unit Testing
+| 🚀 Goals for 2026: | Progress |
+|---|---|
+| Develop and publish a complete **Spring Java** app | ✅ | 
+| Contribute to open-source projects ||
+| Learn React JS ||
+| Learn AWS ||
+| Learn Unit Testing ||
 ---
 
