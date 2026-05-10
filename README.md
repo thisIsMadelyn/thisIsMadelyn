@@ -22,7 +22,7 @@
 
 **Tools & Technologies:**  
 🧰 Git & GitHub · 🪟 Visual Studio Code · 🧑‍💻 IntelliJ IDEA · 📱 Android Studio · 🖥️ Scene Builder · 📨 PostMan · 🐋 Docker <br>
-I'm familiar with the Linux OS, specifically Fedrora and Ubuntu 
+I'm familiar with Linux kernels, specifically Fedrora and Ubuntu 
 
 **Concepts:**  
 🔹 Object-Oriented Programming (OOP)  
