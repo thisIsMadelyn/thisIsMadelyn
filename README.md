@@ -32,9 +32,9 @@ I'm familiar with Linux kernels, specifically Fedrora and Ubuntu
 | 🚀 Goals for 2026: | Progress |
 |---|---|
 | Develop and publish a complete **Spring Java** app | ✅ | 
-| Contribute to open-source projects ||
-| Learn React JS ||
+| Contribute to open-source projects | ✅ |
+| Learn React JS | ✅ |
 | Learn AWS ||
-| Learn Unit Testing ||
+| Learn Unit Testing | ✅ |
 ---
 
