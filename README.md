@@ -38,5 +38,5 @@ SQL Server · Linux · Python · Power BI
 
 ## Contact
 
-magef2021@gmail.com · [[LinkedIn]](https://www.linkedin.com/in/madelyn2025)
+magef2021@gmail.com · [LinkedIn](https://www.linkedin.com/in/madelyn2025)
 
