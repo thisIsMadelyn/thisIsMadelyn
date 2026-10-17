@@ -1,41 +1,42 @@
-# 👋 Hi there, I'm MADELYN!
+# Madelyn Efstathiadou
 
-📆 Projects Manager, International IT Team Board. <br>
-🦅 IT Coordinator of EESTEC LC Thessaloniki. <br>
-🎓 I'm an Information & Electronic Systems Engineering student at the **International Hellenic University**, passionate about Software Engineering, technology, and continuous learning.
+Backend engineer. Java · Kotlin · Spring Boot.
 
-💻 I’m currently focused on:
-- Building **Java** and **backend** development skills
-- Exploring **API design** with the **Spring** Ecosystem and its capabilities
-- Creating **Web applications**
+Third-year Information & Electronic Systems Engineering student at the
+International Hellenic University, Thessaloniki.
 
-## 🧰 Tech Stack
+## What I've built
 
-**Languages:**  
-☕ Java · 🗄️ SQL · 🌐 HTML · 🧩 CSS · ⚡ JavaScript (learning) · 🐍 Python (learning)
+**[debtzero.dev](https://debtzero.dev)** — Kotlin, Spring Boot
+A static analysis tool that reads a repository's git history rather than its
+source. It ranks files by hotspot score (churn weighted against complexity,
+following Tornhill's method), detects co-change coupling between files that
+keep being edited together, measures how concentrated knowledge of each file
+is across authors, and tracks how long TODOs have survived. Live at
+debtzero.dev.
 
-**Frameworks & Libraries:**  
-⚙️ JDBC · ⚙️ Maven · 🌿 Spring Boot · 🧩 Spring Data JPA  · 
-🔐 Spring Security (learning) · 🧬 Hibernate · 🧱 JavaFX ·
+**VMS — Voting & Management System** — Spring Boot, React, MySQL
+An internal voting and member-management application, in production and in
+regular use. Three Docker containers on an Ubuntu VM, deployed through GitHub
+Actions with SHA-tagged images across three repositories (backend, frontend,
+infrastructure). I wrote it and I operate it, server included.
+Private repository (the system holds member data). Happy to walk through the
+architecture.
 
-**Databases:**  
-🗄️ MySQL   
+## Currently
 
-**Tools & Technologies:**  
-🧰 Git & GitHub · 🪟 Visual Studio Code · 🧑‍💻 IntelliJ IDEA · 📱 Android Studio · 🖥️ Scene Builder · 📨 PostMan · 🐋 Docker <br>
-I'm familiar with Linux kernels, specifically Fedrora and Ubuntu 
+**Projects Manager**, EESTEC International IT Team — I select members for the
+international IT Team and own the rebuild of the Soft Skills Academy website.
 
-**Concepts:**  
-🔹 Object-Oriented Programming (OOP)  
-🔹 Software Design & Analysis  
-🔹 Data Structures & Algorithms 
+**IT Coordinator**, EESTEC LC Thessaloniki — I run the Information Technology team:
+6 developers across backend, frontend and analysis.
 
-| 🚀 Goals for 2026: | Progress |
-|---|---|
-| Develop and publish a complete **Spring Java** app | ✅ | 
-| Contribute to open-source projects | ✅ |
-| Learn React JS | ✅ |
-| Learn AWS ||
-| Learn Unit Testing | ✅ |
----
+## Stack
+
+Java · Kotlin · Spring Boot · React · Docker · GitHub Actions · MySQL ·
+SQL Server · Linux · Python · Power BI
+
+## Contact
+
+magef2021@gmail.com · [[LinkedIn]](https://www.linkedin.com/in/madelyn2025)
 
